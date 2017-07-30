@@ -1,0 +1,37 @@
+#main-footer{
+  background-color: #373a3c;
+  padding: 5rem 0;
+  font-size: 0.8rem;
+}
+
+a:hover {
+  cursor:pointer;
+}
+
+footer p{
+  color: white;
+}
+
+footer h6{
+  color: white;
+  text-transform: uppercase;
+}
+
+footer li{
+  color: lightgray;
+}
+
+footer .link-unstyled {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+footer .link-unstyled:link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+footer .link-unstyled:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
